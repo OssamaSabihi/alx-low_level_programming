@@ -1,13 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
-#include <stdio.>
+#include <stdio.h>
 
 /**
- * main - entry point
- *
- * Description: false or true validation
- *
- * Returen: 0 (success)
+ * main - assigns a random number to int n everytime
+ * it executes, and prints it
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
