@@ -9,7 +9,7 @@
  * @argv: an array of strings that holds the actual
  * command-line arguments
  *
- * Return: Always 0
+ * Return: the number of arguments
  */
 
 int main(int argc, char *argv[]  __attribute__((unused)))
