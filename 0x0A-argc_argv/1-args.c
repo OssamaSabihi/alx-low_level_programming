@@ -9,10 +9,10 @@
  * @argv: an array of strings that holds the actual
  * command-line arguments
  *
- * Return: the number of arguments
+ * Return: Always 0
  */
 
-int main(int argc, char *argv[]  __attribute__((unused)))
+int main(int argc, char __attribute__((unused)) *argv[])
 {
 	printf("%d\n", argc - 1);
 
