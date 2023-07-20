@@ -1,9 +1,9 @@
 #include "3-calc.h"
 
 /**
- * main - program that perfroms simple operations
+ * main - Prints the result of simple operations.
  *
- * @acgc: number of arguments
+ * @argc: number of arguments
  * @argv: array of arguments
  *
  * Return: Always 0
