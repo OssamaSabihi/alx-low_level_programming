@@ -17,7 +17,7 @@ int op_add(int a, int b)
  * op_sub - substructs two integers
  * @a: the 1st integer
  * @b: the second integer
- * Return: the result 
+ * Return: the result
  */
 
 int op_sub(int a, int b)
